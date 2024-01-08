@@ -2,7 +2,8 @@
 
 # Inner Join vs Outer Join
 
-![InnerOuter](InnerOuter.png)
+![Inner vs Outer Joins](https://wiki.streampy.at/index.php?title=File:InnerOuter.png)
+
 
 ## Outer Join
 
